@@ -1,2 +1,11 @@
-# AI-CHATBOT-BACKEND
-This repository contains the backend code for an AI chatbot that leverages the OpenAI API to provide intelligent and contextual responses. It's built using Node.js , MongoDB and  Express for a robust and scalable interaction platform.
+
+# MERN Stack AI Chatbot
+
+This is an AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI
+
+It's a customized chatbot where each message of the user is stored in DB and can be retrieved and deleted.
+
+It's a completely secure application using JWT Tokens, HTTP-Only Cookies, Signed Cookies, Password Encryption, and Middleware Chains.
+
+
+
